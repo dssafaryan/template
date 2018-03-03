@@ -1,1 +1,1 @@
-<img src="preheader.jpg" width="660" alt="" style="-ms-interpolation-mode: bicubic; border: 0; display: block; max-width: 660px; width: 100%;"/>
+<center><img src="preheader.jpg" width="660" alt="" style="-ms-interpolation-mode: bicubic; border: 0; display: block; max-width: 660px; width: 100%;"/></center>
